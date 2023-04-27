@@ -39,9 +39,9 @@ $session = [
 ];
 
 $database = [
-	'host' => 'localhost',
+	'host' => 'db',
 	'user' => 'root',
-	'password' => '',
+	'password' => 'value',
 	'db' => 'mydatabase'
 ];
 
